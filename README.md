@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanMondaini&count_private=true)
+curl -H "Accept: application/vnd.github.cloak-preview" https://github-readme-stats.vercel.app/api?username=DanMondaini&include_all_commits=true
