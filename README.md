@@ -1,5 +1,5 @@
 # Hello, world! 👋
-Hi! My name is **Daniel Mondaini**<!--, I'm a developer student from Brazil on the road to become a **FullStack developer**. 
+Hi! My name is **Daniel Mondaini** <!--, I'm a developer student from Brazil on the road to become a **FullStack developer**. 
 
 🥅 I'm really focusing and dedicating all my time to become a FullStack developer with JavaScript, so my goal is to learn all the current used frameworks and technologies. -->
 
