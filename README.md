@@ -24,7 +24,7 @@ Hi! My name is **Daniel Mondaini**
 
 
 
-[![DANIEL's github stats](https://github-readme-stats.vercel.app/api?username=EricksonSiqueira&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/DanMondaini/github-readme-stats)
+[![DANIEL's github stats](https://github-readme-stats.vercel.app/api?username=DanMondaini&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/DanMondaini/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanMondaini&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/DanMondaini/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmondaini/)](https://www.linkedin.com/danielmondaini/) [![Outlook Badge](	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=danielmondaini@outlook.com)](danielmondaini@outlook.com)
